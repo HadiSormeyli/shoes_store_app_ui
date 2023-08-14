@@ -6,5 +6,5 @@ The shoe store app is an innovative and visually appealing application with a st
 
 Feel free to reach out to me via email or connect with me. I'm always open to collaboration and networking opportunities!<br/><br/>
 
-![alt text](https://github.com/HadiSormeyli/flutter_anime_app/blob/master/assets/images/image1.jpg)
+![alt text](https://github.com/HadiSormeyli/shoes_store_app_ui/blob/master/Group%201.png)
 
